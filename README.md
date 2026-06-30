@@ -16,6 +16,8 @@ Meant for exploring basic color manipulation techniques in an HDR workflow.
 ---
 
 ## Credits
+- Based on Agx Tonemapping by Troy Sobotka:
+  [Agx Tonemapping](https://github.com/sobotka/AgX) 
 
 - The `remap` function is adapted from:
   **Vlad Atanasiu (2025).** *Remap numerical values*. [MATLAB Central File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/54404-remap-numerical-values). Accessed June 23, 2025.
