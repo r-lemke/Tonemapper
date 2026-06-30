@@ -1,5 +1,7 @@
 # RL_tonemapper
 
+![Custom HDR Tonemapper](tonemapper.jpg)
+
 ## About
 
 Custom MATLAB tonemapper for a university project.  
